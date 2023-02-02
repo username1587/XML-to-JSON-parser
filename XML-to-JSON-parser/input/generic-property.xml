@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <another-layer-of-nesting>
+        <property>
+            <name>Green House</name>
+            <space_m2_option>between_100_150</space_m2_option>
+            <price_range>between_200000_300000</price_range>
+            <listing_type>For Sale</listing_type>
+            <image>https://example.com/property1/image1.jpg</image>
+        </property>
+        <generic-property>
+            <name>Red House</name>
+            <space_m2_option>above_250</space_m2_option>
+            <price_range>above_500000</price_range>
+            <listing_type>Rent</listing_type>
+            <image>https://www.shutterstock.com/image-vector/example-red-square-grunge-stamp-260nw-327662909.jpg</image>
+        </generic-property>
+        <another-property>
+            <name>Blue House</name>
+            <space_m2_option>between_50_100</space_m2_option>
+            <price_range>between_100000_200000</price_range>
+            <listing_type>For Sale</listing_type>
+            <image>https://example.com/property3/image1.jpg</image>
+        </another-property>
+    </another-layer-of-nesting>
+</properties>

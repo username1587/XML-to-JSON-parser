@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<root>
+    <movie>
+        <uniqueID>2</uniqueID>
+        <title>The Catcher in the Rye</title>
+        <space_m2_option>between_100_150</space_m2_option>
+        <price_range>between_100000_200000</price_range>
+        <listing_type>Rent</listing_type>
+        <image>https://example.com/the-catcher-in-the-rye.jpg</image>
+    </movie>
+    <music>
+        <uniqueID>3</uniqueID>
+        <title>To Kill a Mockingbird</title>
+        <space_m2_option>between_150_250</space_m2_option>
+        <price_range>between_200000_300000</price_range>
+        <listing_type>For Sale</listing_type>
+        <image>https://example.com/to-kill-a-mockingbird.jpg</image>
+    </music>
+    <book>
+        <uniqueID>1</uniqueID>
+        <title>The Great Gatsby</title>
+        <space_m2_option>between_0_50</space_m2_option>
+        <price_range>above_500000</price_range>
+        <listing_type>Rent</listing_type>
+        <image>https://sacajaweaaudubon.org/wp-content/uploads/2020/06/a-lot-of-books-clipart-6.png</image>
+    </book>
+</root>
